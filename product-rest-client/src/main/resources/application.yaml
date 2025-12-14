@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-rest-client
+
+
+server:
+  port: 9292
